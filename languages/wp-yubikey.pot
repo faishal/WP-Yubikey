@@ -1,0 +1,78 @@
+# Copyright (C) 2016 Faishal
+# This file is distributed under the GPL2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yubikey Authentication for WordPress 0.96\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-yubikey\n"
+"POT-Creation-Date: 2016-04-10 00:47:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: includes/authentication.php:27 includes/profile.php:15
+msgid "Yubikey"
+msgstr ""
+
+#: includes/authentication.php:30
+msgid "Insert your yubikey and press the button"
+msgstr ""
+
+#: includes/authentication.php:172
+msgid "Yubikey(Optional)"
+msgstr ""
+
+#: includes/authentication.php:175 includes/profile.php:44
+msgid "Just press the Yubikey button in this field, it will handle rest"
+msgstr ""
+
+#: includes/profile.php:19
+msgid "Enable Yubikey authentication"
+msgstr ""
+
+#: includes/profile.php:28
+msgid "Keys"
+msgstr ""
+
+#: includes/setting.php:20
+msgid "API Key"
+msgstr ""
+
+#: includes/setting.php:26
+msgid "Client ID"
+msgstr ""
+
+#: includes/setting.php:33
+msgid "Client Secret"
+msgstr ""
+
+#: includes/setting.php:66
+msgid "Set yubico API key, Get api key for your Yubikey from %s"
+msgstr ""
+
+#: includes/setting.php:66
+msgid "Yubico.com"
+msgstr ""
+
+#: includes/setting.php:75
+msgid "Yubikey Setting"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yubikey Authentication for WordPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://faish.al/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Yubikey Multi-Factor Authentication with One-time Passwords for Wordpress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Faishal"
+msgstr ""

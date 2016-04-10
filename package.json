@@ -1,0 +1,17 @@
+{
+  "name": "wp-yubikey",
+  "title": "WP Yubikey",
+  "description": "Yubikey Authentication for WordPress",
+  "version": "0.1.0",
+  "homepage": "http://faish.al",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-wp-i18n": "^0.5.4",
+    "load-grunt-tasks": "^3.5.0"
+  },
+  "keywords": []
+}
